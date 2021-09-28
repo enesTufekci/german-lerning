@@ -1,0 +1,55 @@
+#+TITLE: Sagen Machen Hören
+
+* Sagen
+** Ich sage: Hallo.
+I say hello
+** Du sagst nicht.
+You don't say anything.
+** Er sagt Quatsch.
+He talks nonsense.
+** Sie sagt: Aua!
+She says: Ouch!
+** Es sagt mir nichts.
+It does't tell anything to me.
+** Wir sagen: Wilkommen.
+We say: Welcome.
+** Ihr sagt Tschüss.
+You say bye.
+** Sie sagen: Auf Wiedersehen.
+They say goodbye.
+
+* Machen
+** Ich mache ein Video für euch.
+I'm doing a video for you all.
+** Du machts mit.
+You are participating.
+** Er macht nichts.
+He does't do anything.
+** Sie macht mich verrückt.
+She is driving me crazy.
+** Es macht alles keinen Sinn.
+It doesn't make any sense.
+** Wir machen etwas Geheimes.
+We are doing something secret.
+** Ihr macht uns Glücklich mit einem Like.
+You make us happy with a Like.
+** Sie machen Krach.
+They make noise.
+
+* Hören
+** Ich höre Cari and Ana.
+I hear Cari and Ana.
+** Du hörst mir nicht zu.
+You don't listen to me.
+** Er hört nichts.
+He hears nothing.
+** Sie hört Stimmen.
+She hears voices.
+** Es hört sich gut an.
+It sounds good.
+** Wir hören Musik.
+We listen to music.
+** Ihr hört mich nicht.
+You can't hear me.
+** Sie hören mir nicht zu.
+They are not listening to me.

@@ -1,0 +1,47 @@
+#+TITLE: Müssen
+
+* Präsens
+- ich muss
+- du musst
+- er/sie/es muss
+- wir müssen
+- ihr müsst
+- sie müssen
+
+** Beispiele
+- Janusz hat sehr viel getrunken. Jetzt muss er auf die Toilette
+  Janusz has drunk a lot. Now he needs to go to the toilet.
+- Ich muss unbedingt auf die Toilette.
+  I absolutely need to go to the toilet.
+- Hallo Leute, ich muss euch jemanden vorstellen.
+  Hello people, I have to present somebody to you.
+- Hey ihr beiden! Ihr müsst euch zusammenreißen, ja?
+  Hey you two! You have to pull yourselves together, yeah?
+- Es muss was werden.
+  It has to be good (something).
+
+* Präteritum
+- ich musste
+- du musstest
+- er/sie/es musste
+- wir mussten
+- ihr musstet
+- sie mussten
+
+** Beispiele
+- Alina, ist alles gut? Muss ich mir Sorgen machen?
+  Alina, is everything okay? Do I have to worry?
+- Äh, nein. Ich musste nur kurz mit meiner Mutter telefonieren.
+  Erm, no! I just had to quickly talk to my mother on the phone
+- Und warum musstest du sie anraufen?
+  And why did you have to call her?
+- Ich musste ihr leider sagen, dass ich ihr nicht beim Umzug helfen kann.
+  Unfortunately I had to tell her that I can't help her to move house.
+
+* Konjunktiv II
+- ich müsste
+- du müsstest
+- er/sie/es müsste
+- wir müssten
+- ihr müsstet
+- sie müssten

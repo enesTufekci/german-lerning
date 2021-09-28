@@ -1,0 +1,19 @@
+#+TITLE: Example Sentences
+
+* Du sagst nicht.
+You don't say anything.
+
+* Du machts mit.
+You are participating.
+
+* Es macht alles keinen Sinn.
+It doesn't make any sense.
+
+* Du hörst mir nicht zu.
+You don't listen to me.
+
+* Sie hören mir nicht zu.
+They are not listening to me.
+
+* Sie machen Krach.
+They make noise.

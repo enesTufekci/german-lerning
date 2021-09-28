@@ -1,0 +1,40 @@
+#+TITLE: Vocabulary
+
+<d:> "definition"
+<s:> "example sentences"
+
+* unbedingt
+** d:
+Necessarily, absolutely
+** s:
+Ich muss unbedingt auf die Toilette.
+
+* Krach
+** d:
+Noise
+** s:
+- Sie machen Krach.
+
+* Quatsch
+** d:
+nonsense
+** s:
+- He talks nonsense.
+
+* verrückt
+** d:
+crazy, mad, insane, wacky
+** s:
+- Sie macht mich verrückt.
+
+* Sinn
+** d:
+sense, meaning
+** s:
+- Es macht alles keinen Sinn.
+
+* Geheimes
+** d:
+secret
+** s:
+- Wir machen etwas Geheimes.

@@ -1,0 +1,85 @@
+#+TITLE: Sehen
+
+
+* Präsens
+- Ich sehe
+- Du siehst
+- Er/Sie/Es sieht
+- Wir sehen
+- Ihr seht
+- Sie sehen
+
+* Past
+- Ich habe gesehen
+- Du hast gesehen
+- Er/Sie/ES hat gesehen
+- Wir haben gesehen
+- Ihr habt gesehen
+- Sie haben gesehen
+
+* Beispiele
+
+- Cari, was siehst du?
+- Ich sehe viele Leute, die spazieren gehen.
+
+- Cari has du das gesehen?
+- Ich hab' nicht gesehen, was passiert ist.
+
+- Janusz hat den Stein nicht gesehen.
+- Janusz hast du den Stein nicht gesehen?
+- Oh nein, ich hab' den Stein nicht gesehen.
+- Wir haben alle den Stein nicht gesehen.
+
+
+** Note
+- Das Wort "sehen" wird immer mit dem Akkusativ gebildet. Das Objekt oder die Person, die ihr seht stehen immer im Akkusativ und das üben wird jetzt.
+
+
+| Nominativ | Akkusativ   |
+|-----------+-------------|
+| der Baum  | den Baum    |
+| ein Baum  | einen Baum  |
+|           |             |
+| die Tür   | die Tür     |
+| eine Tür  | eine    Tür |
+|           |             |
+| das Auto  | das Auto    |
+| ein Auto  | ein Auto    |
+
+
+- Ich sehe *den* Baum.
+- Ich sehe *einen* Baum.
+- Ich sehe *das* Auto.
+- Ich sehe *ein* Auto.
+- Ich sehe eine Restaurant.
+- Ich sehe eine Speisekarte.
+- Ich sehe ein Schild.
+- Ich sehe einen Tisch.
+- Ich sehe mehrere Tische.
+- Ich sehe ein Schaufenster.
+- Ich sehe Janusz schon wieder auf einem Roller
+
+
+** Note
+Wenn ihr zum eurem Akkusativobject noch ein Adjektiv hinzufügen wollt, dann bekommt das Adjektiv die geliche Endung wie der bestimme Artikel im Akkusativ hat, also bekommen männliche Formen ein -(e)n, weibliche Formen ein -e, un die Neutrum-Formen bekommen ein -(e)s am Ende.
+
+- Maria, was siehst du?
+- Ich sehe *den blauen* Himmel.
+- Ich sehe *einen blauen* Himmel.
+- Ich sehe *die telefonierende* Cari.
+- Ich sehe *eine telefonierende* Cari.
+- Ich sehe *den nachdenklichen* Janusz.
+- Ich sehe *einen nachdenklichen* Janusz.
+- Ich sehe eine staubige Pflanze.
+- Ich sehe in rotes Auto, aus dem leute Hip-Hop-Musik schallt.
+- Ich sehe eine rote Auschrift auf dem Schaufenster.
+- Ich sehe ein rotes Fahrrad.
+- Ich sehe einen schwarzen Stuhl aus Autoreifen.
+- Ich sehe einen glücklichen Janusz, der schon wieder Roller fährt.
+- Ich sehe eine balue Tür.
+- Ich sehe einen blauen Parkautomaten.
+- Ich sehe einen wütenden Janusz.
+- Ich sehe ein blauses Polizeiauto.
+- Ich sehe einen sich desinfizierenden Janusz.
+- Ich sehen ein interessantes Werbeplakat.
+- Ich sehe einen orangenen Mülleimer.
