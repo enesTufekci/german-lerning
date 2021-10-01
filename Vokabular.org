@@ -38,3 +38,27 @@ sense, meaning
 secret
 ** s:
 - Wir machen etwas Geheimes.
+
+* Portmonee
+** d:
+wallet
+** s:
+Francisco hat ein Portmonee.
+
+* Aufgabe
+** d:
+task
+** s:
+Ich hab' eine Aufgabe.
+
+* Lust
+** d:
+desire
+** s:
+Ich hab' Lust, I werde Kaffee kaufen.
+
+* Geschenk
+** d:
+gift
+** s:
+Wir geben euch ein Geschenk.
